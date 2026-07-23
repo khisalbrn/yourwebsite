@@ -27,10 +27,8 @@ export const CONTENT: Record<CategoryKey, Entry[]> = {
         "Remember that night we stayed up until 7 am in Baker's backyard? That is when you told me you wanted to do this. To be honest I was really sipportive but didn't understand what it was (I was too cold to think) and after ups and downs and not being the biggest fan of it for the sake of my stress. Know that I am aware it's your dream and I want you to be happpy and I support you",
     },
     {
-      type: 'image',
-      content:
-        'https://images.unsplash.com/photo-1636280788355-550a9496655d?w=900&h=700&fit=crop&auto=format',
-      caption: 'The way you hold my hand makes everything feel steady.',
+      type: 'text',
+      content:"I believe in us, I know we are meant to be. Even if we are not I want to be with you no matter how bad of a haircut you have.",
     },
     {
       type: 'text',
@@ -42,10 +40,8 @@ export const CONTENT: Record<CategoryKey, Entry[]> = {
       content: "What song makes you think of us ? Well you don't know songs so I don't expect you to answer that. But I remember when I somehow managed to make the DJ at logies play Hotel California and make you slow dance with me. Best slow dancing ever (only slow dancing ever also)",
     },
     {
-      type: 'image',
-      content:
-        'https://images.unsplash.com/photo-1480618376353-2950ee462b17?w=900&h=700&fit=crop&auto=format',
-      caption: 'The first time you held my hand. You acted like it was nothing. It was everything.',
+      type: 'text',
+      content:"I love it when we face time and I can tell you are excited to see me and talk to me.",
     },
     {
       type: 'text',
@@ -53,10 +49,8 @@ export const CONTENT: Record<CategoryKey, Entry[]> = {
         "I always worried we wouldn't work at first because we both are only children and really tend to place the fault on other instead of taking accountability. But I remmeber the night I left yours at 5am because I couldn't sleep and even though you hated ssleeping at mine you still texted me to say you would sleep there if always sleeping at yours was a problem to me. Then I knew that we were able to reflect on ourselfves and make it work even if we are only children.",
     },
     {
-      type: 'image',
-      content:
-        'https://images.unsplash.com/photo-1548226066-f3865161f42b?w=900&h=700&fit=crop&auto=format',
-      caption: 'Every ordinary morning with you is my favorite kind of morning.',
+      type: 'text',
+      content:"I love you so much JP. I know we will have amazing lives no matter where they take us as long as we are toegether.",
     },
     {
       type: 'text',
@@ -69,10 +63,8 @@ export const CONTENT: Record<CategoryKey, Entry[]> = {
         "I am the luckiest women to have you. This is crazy that the world is so big and we were born on opposite conitnents yet we still found each others. AND we dated against all odds.",
     },
     {
-      type: 'image',
-      content:
-        'https://images.unsplash.com/photo-1452611545118-2b35b308caf5?w=900&h=700&fit=crop&auto=format',
-      caption: 'We stayed up looking at the stars and I forgot to look at them — I kept looking at you.',
+      type: 'text',
+      content:"I can't wait one day to be old and look back on our long happy life. I ll love you and still you are the handsomest when you are 80 and wrinkly and can't hear me well. ",
     },
     {
       type: 'text',
@@ -123,6 +115,11 @@ export const CONTENT: Record<CategoryKey, Entry[]> = {
     {
       type: 'text',
       content:
+        "My mom has always said the scale between possible and impossible is the scale of your determination.",
+    },
+    {
+      type: 'text',
+      content:
         "You are allowed to be tired. You are not allowed to believe you're not enough.",
     },
     {
@@ -169,138 +166,97 @@ export const CONTENT: Record<CategoryKey, Entry[]> = {
   ],
 
   jokes: [
-  {
-    type: 'text',
-    content:
-      "Why don't scientists trust atoms? Because they make up everything. Unlike me—I only make up excuses to text you again.",
-  },
-  {
-    type: 'text',
-    content:
-      "I told my girlfriend she was drawing her eyebrows too high. She looked surprised. (That's still one of my favorite looks on you.)",
-  },
-  {
-    type: 'text',
-    content:
-      "What did the ocean say to the beach? Nothing, it just waved. Kind of like me every time I see you... even if you're only five feet away.",
-  },
-  {
-    type: 'text',
-    content:
-      "Why did the scarecrow win an award? Because he was outstanding in his field. You're also outstanding... and I'm trying very hard not to be cheesy about it.",
-  },
-  {
-    type: 'text',
-    content:
-      "I asked my dog what two minus two is. He said nothing. That's also how many reasons I have not to like you.",
-  },
-  {
-    type: 'text',
-    content:
-      "What do you call a fake noodle? An impasta. What do you call pretending I don't miss you? Also an impasta.",
-  },
-  {
-    type: 'text',
-    content:
-      "I tried to make a belt out of watches. It was a waist of time. Unlike spending time with you.",
-  },
-  {
-    type: 'text',
-    content:
-      "What do you call cheese that isn't yours? Nacho cheese. What do you call someone I'd still share my fries with? You.",
-  },
-  {
-    type: 'text',
-    content:
-      "Why did the bicycle fall over? Because it was two-tired. I'm also two-tired... mostly because we stayed up talking.",
-  },
-  {
-    type: 'text',
-    content:
-      "How do you organize a space party? You planet. How do you make my day better? You just show up.",
-  },
-  {
-    type: 'text',
-    content:
-      "I would tell you a construction joke, but I'm still working on it. Just like I'm still working on finding a joke funnier than you.",
-  },
-
-  {
-    type: 'text',
-    content:
-      "What do seals do when they fall in love? They seal the deal. (I'm sorry. I had to.)",
-  },
-  {
-    type: 'text',
-    content:
-      "Why don't seals ever lose arguments? Because they always have a watertight point.",
-  },
-  {
-    type: 'text',
-    content:
-      "What's a seal's favorite subject? Current events.",
-  },
-  {
-    type: 'text',
-    content:
-      "How do seals greet each other? 'Long time, no sea!'",
-  },
-  {
-    type: 'text',
-    content:
-      "Why did the seal bring sunscreen? Because he didn't want to become a hot dog.",
-  },
-  {
-    type: 'text',
-    content:
-      "What did one seal text the other? 'Water you doing later?'",
-  },
-  {
-    type: 'text',
-    content:
-      "Why are seals so calm? They just go with the flow.",
-  },
-  {
-    type: 'text',
-    content:
-      "What's a seal's favorite music? Anything with a good sea beat.",
-  },
-  {
-    type: 'text',
-    content:
-      "Why did the seal cross the ocean? To get to the otter side.",
-  },
-  {
-    type: 'text',
-    content:
-      "What do you call a fashionable seal? Seal-ish.",
-  },
-  {
-    type: 'text',
-    content:
-      "Why don't seals tell secrets? Because they don't want to let the catfish out of the bag.",
-  },
-  {
-    type: 'text',
-    content:
-      "What did the seal say after a great meal? 'That hit the blubber spot.'",
-  },
-  {
-    type: 'text',
-    content:
-      "Why are seals terrible at hide-and-seek? They always leave flipper prints.",
-  },
-  {
-    type: 'text',
-    content:
-      "What does a seal do on vacation? He just chills on the beach and claps for himself.",
-  },
-  {
-    type: 'text',
-    content:
-      "How do you compliment a seal? 'You're looking pretty seal-f confident today.'",
-  },
-  ],
+    {
+      type: 'text',
+      content:
+        "My grandfather has the heart of a lion... and a lifetime ban from the zoo.",
+    },
+    {
+      type: 'text',
+      content:
+        "I have a joke about unemployment... but it doesn't WORK.",
+    },
+    {
+      type: 'text',
+      content:
+        "My therapist says I have a preoccupation with revenge. He'll see about that.",
+    },
+    {
+      type: 'text',
+      content:
+        "I told my doctor I broke my arm in two places. He told me to stop going to those places.",
+    },
+    {
+      type: 'text',
+      content:
+        "My boss told me to have a good day... so I went home.",
+    },
+    {
+      type: 'text',
+      content:
+        "I want to die peacefully in my sleep like my grandfather... not screaming like the passengers in his car.",
+    },
+    {
+      type: 'text',
+      content:
+        "The cemetery looks overcrowded. People are dying to get in.",
+    },
+    {
+      type: 'text',
+      content:
+        "I asked my friend if he wanted to hear a joke about ghosts. He said no. I said that's OK, it’s a BOO-ring joke anyway.",
+    },
+    {
+      type: 'text',
+      content:
+        "My memory has gotten so bad... I forgot I had a bad memory.",
+    },
+    {
+      type: 'text',
+      content:
+        "I told my suitcase there would be no vacations this year. Now I'm dealing with emotional BAG-gage.",
+    },
+    {
+      type: 'text',
+      content:
+        "They say nothing is impossible. I’ve been doing nothing for years.",
+    },
+    {
+      type: 'text',
+      content:
+        "I’m not saying my life is a mess... but my GPS asked if I wanted to recalculate everything.",
+    },
+    {
+      type: 'text',
+      content:
+        "My wallet is like an onion. Opening it makes me cry.",
+    },
+    {
+      type: 'text',
+      content:
+        "I asked the Grim Reaper for a refund. He said my time had already expired.",
+    },
+    {
+      type: 'text',
+      content:
+        "Why don't skeletons fight each other? They don't have the GUTS.",
+    },
+    {
+      type: 'text',
+      content:
+        "What is the difference between the tormenta and your ....? none I see them both often but can't ride them (s/o to facetime)",
+    },
+    {
+      type: 'text',
+      content:
+        "I told my plants a joke. They needed time to process it because they were still ROOTED.",
+    },
+    {
+      type: 'text',
+      content:
+        "My life is basically a software update: every time something improves, something else stops working.",
+    },
+],
 
   'emergency-quitting': [
     {
