@@ -30,7 +30,7 @@ const options: MenuOption[] = [
   },
   {
     label: 'Emergency',
-    sub: '',
+    sub: 'you won\'t need this knock on wood',
     key: 'emergency',
     isEmergency: true,
   },

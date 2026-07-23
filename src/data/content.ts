@@ -66,7 +66,7 @@ export const CONTENT: Record<CategoryKey, Entry[]> = {
     {
       type: 'text',
       content:
-        "Every single time you've called me just to hear my voice. Even when you had nothing to say.",
+        "I am the luckiest women to have you. This is crazy that the world is so big and we were born on opposite conitnents yet we still found each others. AND we dated against all odds.",
     },
     {
       type: 'image',
@@ -77,21 +77,21 @@ export const CONTENT: Record<CategoryKey, Entry[]> = {
     {
       type: 'text',
       content:
-        "That cold morning when you gave me your jacket without a word. You shivered the whole way. You never complained.",
+        "I can still picture the first time you told me you lovedd me. I could tell you were going to because your eyes were like glistenning and it's probably the most nervous I have ever seen you. After that I wanted to tell byou I loved you every second and never let go of your arm. I didn't do it to not seem psycho of course...",
     },
     {
       type: 'text',
       content:
-        "The way you say my name. Just... my name. Nobody else says it like that.",
+        "I still think about how grateful I am that you planned my entire birthday at your house and you took care of everything and invited people even when I had little to no firends in Dallas. I am so grateful for you my love.",
     },
     {
       type: 'text',
       content:
-        "That day we got completely lost and ended up somewhere we'd never been. And neither of us cared. We were already exactly where we wanted to be.",
+        "I can't wait to have our own house and we will be able to act like childrens. Build forts and have a colorful house with cookies in every closet! And homemade bagels again.",
     },
     {
       type: 'text',
-      content: "Every ordinary moment with you feels like something worth keeping.",
+      content: "I remember in december 2024 when we got back to dallas and for the first time in a month I slept alone in a little bed at Vanessas. I didn't know I loved you yet but the bed did feel empty without you by my side. It still does. I can't wait to have to get a dual temperature mattress pad for us to sleep together again. ",
     },
   ],
 
@@ -99,12 +99,12 @@ export const CONTENT: Record<CategoryKey, Entry[]> = {
     {
       type: 'text',
       content:
-        "I am so grateful for you and all the effort you put in making this work even when we re appart.",
+        "I am so grateful for you and all the effort you put in making this work even when we are appart.",
     },
     {
       type: 'text',
       content:
-        "The version of you that exists five years from now is grateful for what you're doing today — even on the hard days.",
+        "By all laws of aviation a bee shouldn't be able to fly....",
     },
     {
       type: 'text',
@@ -113,12 +113,12 @@ export const CONTENT: Record<CategoryKey, Entry[]> = {
     },
     {
       type: 'text',
-      content: "Rest if you need to. But don't you dare quit.",
+      content: "Okay I am not great at motivation speech. But just keep going, in a year your brain won't even remember how awful this is. Actually your brain has a way to erase memories of physical pain so you ca't think about it and feel it later.",
     },
     {
       type: 'text',
       content:
-        "The world doesn't always recognize quiet strength. I see yours. I always have.",
+        "Come on, I know you will be a great mermaid",
     },
     {
       type: 'text',
@@ -128,17 +128,17 @@ export const CONTENT: Record<CategoryKey, Entry[]> = {
     {
       type: 'text',
       content:
-        "Everything you're carrying right now — I see it. I'm proud of you for still showing up.",
+        "I love you and I will always be by your side no matter what (except if you become morbidly obese) then I won't be able to be next to you because you are too fat.",
     },
     {
       type: 'text',
       content:
-        "There is no one on this planet built like you. That matters more than you know.",
+        "There is no one on this planet built like you.",
     },
     {
       type: 'text',
       content:
-        "Hard days are proof that you're in the game. Easy days are for people who stopped trying.",
+        "Hard days are proof that you're in the game. ",
     },
     {
       type: 'text',
@@ -151,109 +151,162 @@ export const CONTENT: Record<CategoryKey, Entry[]> = {
     },
     {
       type: 'text',
-      content: "Whatever you're working toward — it's worth it. And so are you.",
+      content: "No matter what I am not leaving you. You are my rock and I will be your strenght when you need it.",
     },
     {
       type: 'text',
-      content: "You've already done hard things. You'll do this one too.",
+      content: "Any time you think 'this is hard' hear my voice say 'that\'s what she said'",
     },
     {
       type: 'text',
       content:
-        "On the days you feel smallest, remember: you're the person I chose. That means something.",
+        "On the days you feel smallest, remember: you're the person I chose. That means something (I hate people especially men and I still chose to love you).",
     },
     {
       type: 'text',
-      content: "You are someone's reason to keep going. Mine.",
+      content: "You are my reason to keep going, to stay here and to be a better person everyday. ",
     },
   ],
 
   jokes: [
-    {
-      type: 'text',
-      content:
-        "Why don't scientists trust atoms? Because they make up everything. Unlike me — I only make up excuses for why I'm still awake thinking about you.",
-    },
-    {
-      type: 'text',
-      content:
-        "I told my girlfriend she was drawing her eyebrows too high. She looked surprised. (That's you. You're my girlfriend. You always look surprised when I compliment you.)",
-    },
-    {
-      type: 'image',
-      content:
-        'https://images.unsplash.com/photo-1558788353-f76d92427f16?w=900&h=700&fit=crop&auto=format',
-      caption: "This is basically what your face looks like when I say something smart. 🐶",
-    },
-    {
-      type: 'text',
-      content:
-        "What did the ocean say to the beach? Nothing, it just waved. I wave at you like that every time I see you. Even when you're five feet away.",
-    },
-    {
-      type: 'text',
-      content:
-        "Why did the scarecrow win an award? Because he was outstanding in his field. You're also outstanding. In my heart. It's cheesy. Deal with it.",
-    },
-    {
-      type: 'text',
-      content:
-        "I asked my dog what two minus two is. He said nothing. That's also how many flaws I can find in you. (I've looked very hard.)",
-    },
-    {
-      type: 'image',
-      content:
-        'https://images.unsplash.com/photo-1646080524846-bea654f59832?w=900&h=700&fit=crop&auto=format',
-      caption: "My face whenever you walk into the room.",
-    },
-    {
-      type: 'text',
-      content:
-        "What do you call a fake noodle? An impasta. What do you call a fake goodbye? Every time I hang up and immediately miss you.",
-    },
-    {
-      type: 'text',
-      content:
-        "Why do we tell actors to 'break a leg'? Because every play has a cast. You are the entire cast of my life. That was romantic AND about bones.",
-    },
-    {
-      type: 'text',
-      content:
-        "I tried to make a belt out of watches. It was a waist of time. Unlike every single second I spend with you, which is never wasted.",
-    },
-    {
-      type: 'text',
-      content:
-        "What do you call cheese that isn't yours? Nacho cheese. What do you call a man who's fully yours? Apparently me.",
-    },
-    {
-      type: 'image',
-      content:
-        'https://images.unsplash.com/photo-1596098823457-74e360fcd023?w=900&h=700&fit=crop&auto=format',
-      caption: "This is what I'm thinking about when I should be thinking about something productive.",
-    },
-    {
-      type: 'text',
-      content:
-        "Why did the bicycle fall over? Because it was two-tired. I'm also two-tired... to be away from you. Sorry. Not sorry.",
-    },
-    {
-      type: 'text',
-      content:
-        "How do you organize a space party? You planet. How do you make me smile every single time? You exist.",
-    },
-    {
-      type: 'text',
-      content:
-        "I would tell you a construction joke but I'm still working on it. Unlike my love for you, which is very much complete and built to last.",
-    },
+  {
+    type: 'text',
+    content:
+      "Why don't scientists trust atoms? Because they make up everything. Unlike me—I only make up excuses to text you again.",
+  },
+  {
+    type: 'text',
+    content:
+      "I told my girlfriend she was drawing her eyebrows too high. She looked surprised. (That's still one of my favorite looks on you.)",
+  },
+  {
+    type: 'text',
+    content:
+      "What did the ocean say to the beach? Nothing, it just waved. Kind of like me every time I see you... even if you're only five feet away.",
+  },
+  {
+    type: 'text',
+    content:
+      "Why did the scarecrow win an award? Because he was outstanding in his field. You're also outstanding... and I'm trying very hard not to be cheesy about it.",
+  },
+  {
+    type: 'text',
+    content:
+      "I asked my dog what two minus two is. He said nothing. That's also how many reasons I have not to like you.",
+  },
+  {
+    type: 'text',
+    content:
+      "What do you call a fake noodle? An impasta. What do you call pretending I don't miss you? Also an impasta.",
+  },
+  {
+    type: 'text',
+    content:
+      "I tried to make a belt out of watches. It was a waist of time. Unlike spending time with you.",
+  },
+  {
+    type: 'text',
+    content:
+      "What do you call cheese that isn't yours? Nacho cheese. What do you call someone I'd still share my fries with? You.",
+  },
+  {
+    type: 'text',
+    content:
+      "Why did the bicycle fall over? Because it was two-tired. I'm also two-tired... mostly because we stayed up talking.",
+  },
+  {
+    type: 'text',
+    content:
+      "How do you organize a space party? You planet. How do you make my day better? You just show up.",
+  },
+  {
+    type: 'text',
+    content:
+      "I would tell you a construction joke, but I'm still working on it. Just like I'm still working on finding a joke funnier than you.",
+  },
+
+  {
+    type: 'text',
+    content:
+      "What do seals do when they fall in love? They seal the deal. (I'm sorry. I had to.)",
+  },
+  {
+    type: 'text',
+    content:
+      "Why don't seals ever lose arguments? Because they always have a watertight point.",
+  },
+  {
+    type: 'text',
+    content:
+      "What's a seal's favorite subject? Current events.",
+  },
+  {
+    type: 'text',
+    content:
+      "How do seals greet each other? 'Long time, no sea!'",
+  },
+  {
+    type: 'text',
+    content:
+      "Why did the seal bring sunscreen? Because he didn't want to become a hot dog.",
+  },
+  {
+    type: 'text',
+    content:
+      "What did one seal text the other? 'Water you doing later?'",
+  },
+  {
+    type: 'text',
+    content:
+      "Why are seals so calm? They just go with the flow.",
+  },
+  {
+    type: 'text',
+    content:
+      "What's a seal's favorite music? Anything with a good sea beat.",
+  },
+  {
+    type: 'text',
+    content:
+      "Why did the seal cross the ocean? To get to the otter side.",
+  },
+  {
+    type: 'text',
+    content:
+      "What do you call a fashionable seal? Seal-ish.",
+  },
+  {
+    type: 'text',
+    content:
+      "Why don't seals tell secrets? Because they don't want to let the catfish out of the bag.",
+  },
+  {
+    type: 'text',
+    content:
+      "What did the seal say after a great meal? 'That hit the blubber spot.'",
+  },
+  {
+    type: 'text',
+    content:
+      "Why are seals terrible at hide-and-seek? They always leave flipper prints.",
+  },
+  {
+    type: 'text',
+    content:
+      "What does a seal do on vacation? He just chills on the beach and claps for himself.",
+  },
+  {
+    type: 'text',
+    content:
+      "How do you compliment a seal? 'You're looking pretty seal-f confident today.'",
+  },
   ],
 
   'emergency-quitting': [
     {
       type: 'text',
       content:
-        "Stop. Breathe.\n\nI know it feels unbearable right now. Like the weight of it is too much and the finish line is nowhere in sight.\n\nBut you are not at your end. You are in the middle — and the middle is always the hardest part.\n\nQuitting would mean never finding out what you were capable of. And I already know what you're capable of. I've seen it. You have too, even if you can't remember it right now.\n\nDon't make a permanent decision based on how today feels.\n\nCall me. Text me. I don't care what time it is.\n\nI am always, always on your side.",
+        "My love if you are reading this it meas you quit. I know you are hurting and feel disappointed. I want you to know that I am proud of you, I am so so so incredibly proud of you for making it this far. I want you to know that it does not change the way I see you, I may evem love you more because it means you are human. I don't exactly know what your worries are at the moment, and I will of course be there for you as soon as you want to call me, but know that no matter what I love you, no matter what I will make it work and find a job so we can have our life together, no matter what we will figure out our life together. Know that I will stay by your side forever and to me you still are the most incredible human in the planet. It might just mean something else is meant for you, something even better. It doesn't feel like it now but the world is vast, your are unlimited. You are the sky and this hickup in your inital plan is nothing but a cloud. I love you so much JP and I am here when you need me. ",
     },
   ],
 
@@ -261,7 +314,7 @@ export const CONTENT: Record<CategoryKey, Entry[]> = {
     {
       type: 'text',
       content:
-        "Okay. Take a breath.\n\nGetting rolled means you were in there. You showed up, you competed, and someone caught you today. That's all it means.\n\nThe best grapplers in the world have been submitted more times than they can count. Every tap is tuition. You paid for a lesson — now collect it.\n\nWhat caught you? Where did it go wrong? That's your homework.\n\nYou're not bad at this. You're just not done yet. There's a difference.\n\nGet back on the mat. That's the whole job.",
+        "Alright my love, it happens. I hope you are okay, I know you must be annoyed (fuck the situation, bad bad bad situation). Alright now that we blamed and hated the situation, let's relativize. This actually might be a chance, an opportunity to come back even stronger the next time around. You will be more prepared, more informed and even more hungry for success. So what might now feel like the end of the world (worse than mushroom in your kung pao chicken) might actually be a blessing. No matter what, know that I am here for you and that our plans of life together are goals, we will reach them, the path is flexible. I love you."
     },
   ],
 
@@ -269,7 +322,7 @@ export const CONTENT: Record<CategoryKey, Entry[]> = {
     {
       type: 'text',
       content:
-        "I've got you.\n\nLosing someone hurts in a way that doesn't have a name. And there's nothing I can say to make that not true.\n\nBut here's what I know: you are not unloved. You are not alone. And grief, as awful as it is, is proof that what you had mattered.\n\nYou don't have to be okay right now. You just have to be.\n\nI'm here. Whenever you want to talk, or not talk, or just exist near someone — I'm here.\n\nTake all the time you need.",
-    },
+        "Fuck them, give me names I will personally make their life forever very annoying. That is out of the way. I know you must feeling very down and I wish I was there for you. No matter what happen JP I want you to know that to me you are the most incredible person in this world, I am so proud of you and the love I have for you is infinite. Nothing will ever change how much I love you, and I hope that is something you can attach yourself when life pushes you around.",
+    }
   ],
 };

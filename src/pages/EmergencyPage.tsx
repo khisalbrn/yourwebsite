@@ -9,7 +9,7 @@ interface EmergencyOption {
 
 const emergencyOptions: EmergencyOption[] = [
   {
-    label: 'Open this if you feel like quitting',
+    label: 'Open this if you quitted',
     sub: "",
     key: 'emergency-quitting',
   },
